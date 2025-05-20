@@ -1,0 +1,2 @@
+Prefix plugins/InferenceMap/example/
+Plugin InferenceMap inputfile parameters.txt outputfile inference.pkl
