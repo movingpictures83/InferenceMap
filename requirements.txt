@@ -1,0 +1,6 @@
+ml-collections
+numpy
+plotly
+scipy
+torch
+tqdm
